@@ -1,0 +1,8 @@
+View Template & MVC Patterns
+
+뷰 템플릿 : 화면 구성틀 -> 변수의 값에 따라 변화 with MUSTACH
+Controller : 처리
+Model : 데이터
+
+요청은 controller가 @GetMapping을 통해 받음
+model에서 getAttribute로 데이터 선택&전달
