@@ -6,3 +6,13 @@ Model : 데이터
 
 요청은 controller가 @GetMapping을 통해 받음
 model에서 getAttribute로 데이터 선택&전달
+
+JPA : Server에서 DB를 다루는 방법
+Entity + Reposiory
+Entity = 규격화된 데이터
+Repository = DB로 entity를 보내는 방법
+
+<Lombok> 
+: Refactoring을 위한 라이브러리
+: 여러 필수 코드들을 최소화
+: 늘어진 코드들을 간소화 시키기
